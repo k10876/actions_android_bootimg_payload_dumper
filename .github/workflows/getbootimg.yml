@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.3.31/miui_ALIOTH_21.3.31_25fc8f0d66_11.0.zip
+  ROM_URL: https://dq236ira5jngg90fi61gu5maro0e3ohodroig1rj6vgsfhuid3lfudv1.qc.x.bsgslb.cn:10443/xdispatch7002e7e324964c3d/bigota.d.miui.com/V13.0.6.0.SJSCNXM/miui_GAUGUIN_V13.0.6.0.SJSCNXM_75486a6f8c_12.0.zip?bsreqid=24b063b88b0e18edee0714104cfe77d7
   TZ: Asia/Shanghai
 
 jobs:
